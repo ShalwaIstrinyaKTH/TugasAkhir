@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(220, 207, 184);
+}
+h1 {
+    font-style: oblique;
+    color: rgb(75, 60, 39);
+}
+h2 {
+    font-style: italic;
+    color: rgb(115, 77, 10);
+}
+p {
+    font-weight: 100;
+    font-style: oblique;
+    color: rgb(96, 50, 31);
+}
+table {
+    font-style: italic;
+}
